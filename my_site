@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hlieb Sakhan - CV</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Hlieb Sakhan</h1>
+            <p>19 years old | KNEU Student</p>
+        </header>
+        <section>
+            <h2>About Me</h2>
+            <p>I am a student at KNEU. I can speak English, German, Ukrainian, and Polish.</p>
+        </section>
+        <section>
+            <h2>My Photo</h2>
+            <img src="photo_2024-05-09_14-13-03.jpg" alt="Hlieb Sakhan">
+        </section>
+    </div>
+</body>
+</html>
